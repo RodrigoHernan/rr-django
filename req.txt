@@ -1,0 +1,6 @@
+colorama==0.3.9
+python-dateutil==2.7.2
+rr==0.2.0
+rr-fmk==0.1
+six==1.11.0
+zini==1.1.0
